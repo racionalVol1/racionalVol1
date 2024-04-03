@@ -1,6 +1,6 @@
 ### Olá, Perondi aqui !
 
-- 🔭 Atualmente trabalho como Analista NOC 
+-  :mortar_board: Estudante de Ciência da Computação em [Federal University of ABC](https://www.ufabc.edu.br/).
 - 🌱 Estudando Phyton e Java
 - 📫 Contate-me no email: guilhermeperondi09@gmail.com
 

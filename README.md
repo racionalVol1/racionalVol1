@@ -1,31 +1,28 @@
-### Olá, Perondi aqui !
+<img src="https://media1.tenor.com/m/-CQ473YQu3MAAAAd/i-can%27t-wait-billy.gif" align="right">
+<h1 align="left">Olá, Perondi aqui !</h1>
 
--  :mortar_board: Estudante de Ciência da Computação em [Federal University of ABC](https://www.ufabc.edu.br/).
-- 🌱 Estudando Phyton e Java
-- 📫 Contate-me no email: guilhermeperondi09@gmail.com
+###
 
-<h3 align="left">![i-can't-wait-billy](https://github.com/user-attachments/assets/3febbe51-9f03-44b1-b370-f002003a0a82)</h3>
+- :mortar_board: Computer Science student at [Federal University of ABC](https://www.ufabc.edu.br/).
+- :computer: C# and .NET
+- :mailbox: guilhermeperondi09@gmail.com
 
-<h3 align="left">Linguagens:</h3>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+###
 
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
+###
 
-<h3 align="left">Contato:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guilherme-perondi-306705203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Guilherme Perondi" height="30" width="40" /></a>
-<a href="https://instagram.com/RacionalVol1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perondi" height="30" width="40" /></a>
+<br>
+<div align="left">
+  <a href="https://linkedin.com/in/guilherme perondi"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a> 
+</div>
 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racionalVol1&show_icons=true&theme=holi&layout=compact"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=racionalVol1&show_icons=true&locale=en&theme=holi&rank_icon=github"</p>
-
-
+###

@@ -6,6 +6,7 @@
 
 <div class="tenor-gif-embed" data-postid="17880479021696858995" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/i-can%27t-wait-billy-the-grim-adventures-of-billy-and-mandy-i%27m-so-excited-super-happy-gif-17880479021696858995">I Can&#39;T Wait Billy GIF</a>from <a href="https://tenor.com/search/i+can%27t+wait-gifs">I Can&#39;T Wait GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+![i-can't-wait-billy](https://github.com/user-attachments/assets/3febbe51-9f03-44b1-b370-f002003a0a82)
 
 <h3 align="left">Linguagens:</h3>
 <p align="left">

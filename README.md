@@ -4,7 +4,7 @@
 ###
 
 - :mortar_board: Computer Science student at [Federal University of ABC](https://www.ufabc.edu.br/).
-- :computer: C# and .NET
+- :computer: .Net | Angular | SQL Server
 - :mailbox: guilhermeperondi09@gmail.com
 
 ###
